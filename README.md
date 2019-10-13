@@ -1,15 +1,15 @@
 # Simple Lane Detection
 
-A simple and naive implementation of driving lane detection using Hough Transform for an image processing course.
+A simple and naive python implementation of driving lane detection using Hough Transform for an image processing course.
 
 ![](header.png)
 
 The repository includes 3 raw video examples and 3 results of running the detection on this examples.
 
-##Dependencies
-numpy, openvc
+## Dependencies
+Python3, Numpy and OpenCV
 
-##Usage
+## Usage
 
 Run one of the examples (or use your own video):
 
